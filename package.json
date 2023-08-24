@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TetianaKabanova/goit-node-hw-01-cli/issues"
   },
-  "homepage": "https://github.com/TetianaKabanova/goit-node-hw-01-cli#readme"
+  "homepage": "https://github.com/TetianaKabanova/goit-node-hw-01-cli#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
