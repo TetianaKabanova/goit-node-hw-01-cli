@@ -136,23 +136,15 @@ invokeAction(argv);
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list"
 
-https://monosnap.com/file/vwMPesr95ewivuB0PO4vZcxsNvr5eR
-
 # Отримуємо контакт по id і виводимо у консоль об'єкт контакта або null якщо контакту з таким id не існує
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
-
-https://monosnap.com/file/PO45zdS1opH6q3hpcggbKgObNLPDrQ
 
 # Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
 
-https://monosnap.com/file/INmSJxYF2IYoTgfiEUQe2bhftFrgvS
-
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null якщо контакту з таким id не існує
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 ```
-
-https://monosnap.com/file/iHhlL4VR7J7uweP4r2JV6cUTw393IG
 
 ## Крок 6 - Здача домашнього завдання.
 
@@ -167,3 +159,13 @@ https://monosnap.com/file/iHhlL4VR7J7uweP4r2JV6cUTw393IG
 - Назва змінних, властивостей і методів записана в нотації СamelCase. Використовуються англійські слова, назви функцій та методів містять дієслово
 - У коді немає закоментованих ділянок коду
 - Проєкт коректно працює з актуальною LTS-версією Node
+
+Screenshots
+
+https://monosnap.com/file/vwMPesr95ewivuB0PO4vZcxsNvr5eR
+
+https://monosnap.com/file/PO45zdS1opH6q3hpcggbKgObNLPDrQ
+
+https://monosnap.com/file/INmSJxYF2IYoTgfiEUQe2bhftFrgvS
+
+https://monosnap.com/file/iHhlL4VR7J7uweP4r2JV6cUTw393IG
